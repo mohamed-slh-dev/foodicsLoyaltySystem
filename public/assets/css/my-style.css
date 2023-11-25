@@ -1,0 +1,28 @@
+/* My custom style CSS (overriding class) */
+
+.modal.show .modal-dialog
+{
+    margin-top: 10%;
+}
+
+.top-report .footer .progess .progess-bar
+{
+    background: linear-gradient(to right, #0bc01f 0%, #87eeb4 100%);
+}
+
+.text-bold
+{
+    font-weight: bolder;
+}
+
+label{
+    font-weight: bold;
+}
+
+.table .thead-dark th {
+    color: #fff;
+    background-color: #b90043;
+    border-color: #d4004c;
+  }
+
+
